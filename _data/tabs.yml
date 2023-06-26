@@ -1,0 +1,6 @@
+# If you want to add additional tabs to your navigation just
+# add data here. The path should lead to the location of the 
+# .html or .md file. The title is the text you want displayed on the 
+# tab. 
+# - path: example
+#   title: Example
