@@ -1,7 +1,9 @@
 # List your learning objectives here, one line per objective.
 # If you leave this blank, then it will say "none specified"- 
-- Learn how to use Apprentice
-- Update this in `_data/objectives.yml`
-- Here are some more fake ones
-- Microdosing occupy glossier
-- You need a little dummy text for your mockup
+
+- Understand what LaTeX is
+- Understand when to use LaTeX
+- Learn how to use OverLeaf
+- Create a basic document
+- Know how to use Overleaf Templates
+- Generate a PDF from LaTeX

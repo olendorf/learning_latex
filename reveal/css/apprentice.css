@@ -5,6 +5,16 @@
   vertical-align: top;
 }
 
+.reveal div .two-col h4{
+  font-size: 32px;
+}
+
+.reveal div .two-col ul li{
+  font-size: 24px;
+}
+
+
+
 /*.reveal div .two-col ul {*/
 /*  margin-top: 20px*/
 /*}*/

@@ -1,12 +1,13 @@
 ---
 
-order: 1
+order: 10
 
 ---
 
-## Welcome
+## Welcome to Learning LaTeX
 
-Welcome to Apprentice and the jekyll-reveal.js example presentation.
+- Please login to overleaf.com 
+- Use the Google sign in with your NCSU credentials
 
 
 

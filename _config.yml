@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: NCSU Apprentice             # Name of the workshop
+title: Learning LaTeX             # Name of the workshop
 
 description: |
-  The tutorial for creating Apprentice workshops and tutorials. 
+  This workshop is intended to give you a start in learning LaTeX, using Overleaf
+  as a platform to learn and create documents.
 
 
 # Author information 
@@ -53,7 +54,8 @@ baseurl: "/ncsu_apprentice"
 # For now just hardcode the base url too, as its complicated with github.
 # This also lets external files be references.
 # supporting_files_url: "https://github.com/olendorf/ncsu_apprentice/"
-supporting_files_path: "blob/gh-pages/supporting_files/"
+supporting_files_path: "/blob/gh-pages/supporting_files/"
+supporting_files_path: "/supporting_files/"
 
 # Where the bibliography data is comment out or set to blank to disable.
 bibliography: "bibliography.yml"    
